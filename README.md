@@ -9,7 +9,7 @@ It is an public data gathered online about the acreage, population and GDP of 49
 
 README.pdf is a vivid readme file explaining the usage of it.
 
-#
+# K-均值聚类算法应用程序
 一个简单的k均值聚类算法应用程序
 
 FinalKmeans.py 是主程序，里面包含了算法实现部分和图形界面部分。
@@ -19,3 +19,7 @@ fkmeansData.txt 是示例数据，用于演示k均值聚类算法。
 这是中国华中地区49个地级以上城市的公开的面积、人口和GDP数据。
 
 README.pdf 是一个更加完整的使用说明。
+
+# 
+本程序是数据挖掘课程程序设计
+
